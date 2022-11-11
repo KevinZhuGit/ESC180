@@ -1,2 +1,2 @@
 # ESC180
-First year Python course
+Introductory Python course
